@@ -1,0 +1,4 @@
+1000
+SimpleGoal|Leer|Leer dos capitulos por dia del libro de mormon esta semana|100|True
+EternalGoal|Ser humilde|No enojarme cuando las cosas no salen como yo queira y respirar profundo|100
+ChecklistGoal|Ir al templo|Cada semana los dias jueves en la noche|100|3|3|500
